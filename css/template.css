@@ -1,0 +1,35 @@
+html {
+	height: auto;
+	line-height: 1;
+}
+
+body {
+	font-size: 13px;
+	font-family: "Verdana";
+	font-weight: normal;
+	color: #333333;
+}
+
+div, p, span, a, h1, h2, h3, h4, h5, h6, pre, table, form, article, canvas {
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+color: #0055b3;
+}
+
+a:hover{
+color: #0055b3;
+font-weight: bold;
+}
+
+h1 {}
+h2{}
+h3{}
+h4 {}
+
+p {
+margin-left: 5px;
+}
